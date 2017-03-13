@@ -2232,7 +2232,7 @@ input[type="radio"] + label:before {
 }
 
 .image.left img, .image.right img {
-	width: 100%;
+	width: 10em;
 }
 
 .image.round img {
