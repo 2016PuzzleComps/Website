@@ -33,6 +33,13 @@ body {
 	background: rgba(75, 75, 93, 0.85);
 }
 
+.author-div {
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+	padding-bottom: 50px;
+}
+
 ol, ul {
 	list-style: none;
 }
